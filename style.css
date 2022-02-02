@@ -1,0 +1,65 @@
+/* Style(s) for entire page */
+body {
+  background-color: hsl(143, 30%, 31%);
+}
+
+/* Styles for headers */
+h1 {
+  text-align: center;
+  padding: 20px 0px 5px 0px;
+}
+
+h3 {
+  text-align: center;
+}
+
+/* Styles for the form main container */
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 700px;
+  border-radius: 5px;
+  background-color: whitesmoke;
+}
+
+/* Styles for the form labels */
+label {
+  margin-left: 20px;
+}
+
+/* styles for all inputs */
+input {
+  height: 35px;
+  width: 350px;
+  margin: 5px 20px 20px 20px;
+}
+
+/* Styles for form submit button */
+button {
+  margin: 5px 90px 10px 90px;
+  padding: 15px 80px 15px 80px;
+  border-radius: 5px;
+  border: none;
+  background-color: hsl(22, 80%, 53%);
+  color: whitesmoke;
+}
+
+/* Styles for paragraph */
+p {
+  display: inline-block;
+  padding: 0px 10px 0px 20px;
+  text-align: center;
+}
+
+/* Styles for all links on the form */
+a {
+  text-decoration: none;
+  color: hsl(22, 80%, 53%);
+}
+
+/* Styles for user login message */
+.login__message {
+  color: whitesmoke;
+  text-align: center;
+}
